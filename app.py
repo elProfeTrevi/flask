@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    mensaje =   '''
+    mensaje =   '''   
     <h1>Este es el tema 1</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod sint sequi dolorem animi? Voluptatem quod, asperiores exercitationem fuga delectus recusandae incidunt enim maxime possimus voluptatibus error nulla deserunt veniam laborum.</p>
     <p>Sed vel quis exercitationem. Delectus, voluptate iure debitis suscipit tempora quo assumenda saepe rem animi consequuntur. Omnis earum rerum quia voluptate facilis? Dolorum, corporis. Nihil praesentium in voluptates modi dolorum.</p>
